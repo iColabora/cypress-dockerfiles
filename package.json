@@ -1,0 +1,22 @@
+{
+  "name": "cypress-dockerfiles",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  },
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iColabora/cypress-dockerfiles.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iColabora/cypress-dockerfiles/issues"
+  },
+  "homepage": "https://github.com/iColabora/cypress-dockerfiles#readme"
+}
